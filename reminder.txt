@@ -1,0 +1,5 @@
+reminder,notification_time
+find milk,120
+go live,1800
+grab a donut,600
+take a bath,60
